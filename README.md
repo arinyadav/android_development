@@ -1,5 +1,5 @@
 # android_development
-ROAD MAP + PROJECT fro Android Development
+ROAD MAP + PROJECT for Android Development
 
 How to become an Android developer | Complete Roadmap-->  https://www.youtube.com/watch?v=A14BLDzNy2k & https://docs.google.com/document/d/1nl7jAWYmt0zvYmbImp8pT-VLMNdHedoMdvg7qvQ1EV8/edit?usp=sharing
     
