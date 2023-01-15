@@ -8,5 +8,6 @@ How to become an Android developer | Complete Roadmap-->  https://www.youtube.co
 
 2--> BASIC TUTORIAL -> https://www.youtube.com/watch?v=BCSlZIUj18Y&list=PLZFmmZckqddj02o05YaCIVQxkcFdJjwMi&index=9
 
+3--> UDEMY CIURSE -> THE COMPLETE ANDROID 12 & KOTLIN DEVELOPMENT MASTERCLASS BY DENIS PANJUTA
 
-3--> PROJECTS BASED TUTORIAL -> https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd
+4--> PROJECTS BASED TUTORIAL -> https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd
